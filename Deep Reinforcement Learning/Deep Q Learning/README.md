@@ -5,5 +5,5 @@
 * The algorithm was developed by enhancing a classic RL algorithm called Q-Learning with deep neural networks and a technique called experience replay.
 
 ## Implementing Deep Q-Learning in Python using PyTorch& OpenAI Gym
-[CartPole](https://gym.openai.com/envs/CartPole-v0/) is one of the simplest environments in the OpenAI gym (a game simulator). As you can see in the above animation, the goal of CartPole is to balance a pole that’s connected with one joint on top of a moving cart.
+[CartPole](https://gym.openai.com/envs/CartPole-v0/) is one of the simplest environments in the OpenAI gym (a game simulator). The goal of CartPole is to balance a pole that’s connected with one joint on top of a moving cart. The system is controlled by applying a force of +1 or -1 to the cart. The pendulum starts upright, and the goal is to prevent it from falling over. A reward of +1 is provided for every timestep that the pole remains upright. The episode ends when the pole is more than 15 degrees from vertical, or the cart moves more than 2.4 units from the center.
 
