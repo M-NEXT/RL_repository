@@ -1,1 +1,2 @@
-# RL_repository
+## Reinforcement Learning
+* RL is a broadly scoped, general problem in the subdomains of Artificial Intelligence, where the goal is to train/create an agent that maximizes a ‘reward’ signal that is given to it in the environment
