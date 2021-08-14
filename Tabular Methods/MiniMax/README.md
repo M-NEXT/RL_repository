@@ -1,3 +1,4 @@
+## About
 This assignment is solely for my own understanding purpose.
 
 ## Minimax Algorithm
@@ -11,3 +12,6 @@ Two major problems of minimax algorithm is that-
 1. It works only in episodic tasks i.e. a task which terminates after a finite number of steps.
 2. Due to full sweep or deep search, it's time complexity is very high and its memory inefficient.
 Click on this [link](https://www.freecodecamp.org/news/minimax-algorithm-guide-how-to-create-an-unbeatable-ai/) to read more about minimax algorithm.
+
+## Run
+To see the game in action, clone the repository and navigate to this folder. Then execute the TTT.py file in terminal. Enjoy
