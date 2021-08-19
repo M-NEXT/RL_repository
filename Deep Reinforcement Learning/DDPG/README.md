@@ -4,9 +4,11 @@ This is a simple PyTorch implementation of [DDPG](https://arxiv.org/abs/1509.029
 
 ## Run
 **Algorithm tested on [LunarLanderContinuous-v2](https://gym.openai.com/envs/LunarLanderContinuous-v2/) env -**
+
 ![Lunar Lander](https://github.com/M-NEXT/RL_repository/blob/main/Deep%20Reinforcement%20Learning/DDPG/images/lunarlander.png)
 
 **Algorithm tested on [Pendulum-v0](https://gym.openai.com/envs/Pendulum-v0/) env -**
+
 ![Pendulum](https://github.com/M-NEXT/RL_repository/blob/main/Deep%20Reinforcement%20Learning/DDPG/images/pendulum.png)
 
 Note : These are the results of when the agent is on training mode. So there maybe noise present for exploration. For testing make the noise term zero.
