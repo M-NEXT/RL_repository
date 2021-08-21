@@ -23,6 +23,6 @@ With TD-lambda(backward view) algorithm -
 
 ## Simulation
 The first image consists of agent with random policy as you can see its exploring the environment. The second image is an agent with optimal policy which is leanred from 100 episodes. The agent directly moves to its target location.
-Episode 1                                                                                Episode 100
+
 ![episode1](https://github.com/M-NEXT/RL_repository/blob/main/Tabular%20Methods/Minigrid/images/ep0.gif) ![episode100](https://github.com/M-NEXT/RL_repository/blob/main/Tabular%20Methods/Minigrid/images/ep100.gif)
 
