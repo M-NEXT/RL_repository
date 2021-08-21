@@ -10,10 +10,17 @@ Minigrid is a easy to use, lightweight and fast environment to perform reinforce
 Note: To implement Q learning algorithms we have to fix the goal and the agent position. CHange it according to the environment which you are using
 
 ## Run
+
 **Fourrooms environment
 
 With normal Temporal Difference algorithm - 
 
 ![normal fourromms](https://github.com/M-NEXT/RL_repository/blob/main/Tabular%20Methods/Minigrid/images/4roomsenv.png)
 
-With TD-lambda algorithm -
+With TD-lambda(backward view) algorithm -
+
+![backwardview](https://github.com/M-NEXT/RL_repository/blob/main/Tabular%20Methods/Minigrid/images/4roomswithbackwardview.png)
+
+## Simulation
+![episode1](https://github.com/M-NEXT/RL_repository/blob/main/Tabular%20Methods/Minigrid/images/ep0.gif) ![episode100](https://github.com/M-NEXT/RL_repository/blob/main/Tabular%20Methods/Minigrid/images/ep100.gif)
+
