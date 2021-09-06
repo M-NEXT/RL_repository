@@ -11,13 +11,13 @@ Note: To implement Q learning algorithms we have to fix the goal and the agent p
 
 ## Run
 
-**Fourrooms environment
+**Fourrooms environment**
 
 With normal Temporal Difference algorithm - 
 
 ![normal fourromms](https://github.com/M-NEXT/RL_repository/blob/main/Tabular%20Methods/Minigrid/images/4roomsenv.png)
 
-With TD-lambda(backward view) algorithm -
+With Eligibility Traces(backward view) algorithm -
 
 ![backwardview](https://github.com/M-NEXT/RL_repository/blob/main/Tabular%20Methods/Minigrid/images/4roomswithbackwardview.png)
 
