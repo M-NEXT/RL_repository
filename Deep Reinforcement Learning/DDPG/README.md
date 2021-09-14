@@ -1,6 +1,6 @@
 # Deep Deterministic Policy Gradient using PyTorch
 ## Overview
-This is a simple PyTorch implementation of [DDPG](https://arxiv.org/abs/1509.02971). This repo is not aim at reproducing the performace in the original paper, but to show the basic logics of how to do forward as well as backward in ode network.
+This is a simple PyTorch implementation of [DDPG](https://arxiv.org/abs/1509.02971). This repo is not aim at reproducing the performace in the original paper, but to show the basic logics of how the algorithm and network works.
 
 ## Run
 **Algorithm tested on [LunarLanderContinuous-v2](https://gym.openai.com/envs/LunarLanderContinuous-v2/) env -**
